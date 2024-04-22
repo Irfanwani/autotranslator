@@ -1,3 +1,6 @@
 venv
 test.py
 *.mp3
+*.pdf
+*.aux
+*.log

@@ -5,3 +5,7 @@ test.py
 *.pdf
 *.aux
 *.log
+*.nav
+*.out
+*.toc
+*.snm
